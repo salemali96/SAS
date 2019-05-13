@@ -1,8 +1,0 @@
-The Little Statclass Data set has Sex, Race, Quiz average, Computer assignment average, Midterm score and Final Exam score from students in a statistics class, long ago. Using SAS, make frequency distributions of the Sex and Race, and compute n, mean and standard deviation, minimum and maximum for the other variables. Bring your log file (not your program file) and output file to the quiz. You may be asked to answer questions about them, and you may be asked to hand them in with the quiz. For example, what's the lowest midterm score? What's the mean score on the computer assignments? What percentage of students were from Race B?
-If you are asked to hand in your log file and results file, your name and student number should be on both printouts. You are allowed to write your name and student number on the printouts in advance, but do not write anything else on your printouts in advance.
-
-This should be obvious, but if you are asked for a number from your printout and you don't have a printout, do not answer the question and then pretend you remembered the number. If you do, you will be charged with an academic offence.
-
-This also should be obvious, but you are not allowed to put answers or any other material related to the non-computer questions in comment statements, or otherwise cause such material to appear on your printout.
-
-Note that your log file and output file must be produced by the same run of SAS. If they do not, you will get zero for the computer part of the quiz. It is surprisingly easy to mess this up, so please be careful.
